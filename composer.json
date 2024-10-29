@@ -1,5 +1,5 @@
 {
-  "name": "hieu-le/active",
+  "name": "amcreations/active",
   "description": "The helper class for Laravel applications to get active class base on current route",
   "keywords": [
     "laravel",
