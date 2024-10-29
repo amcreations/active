@@ -36,6 +36,9 @@
   "prefer-stable": true,
   "extra": {
     "laravel": {
+        "branch-alias": {
+            "dev-master": "11.0-dev"
+        },
       "providers": [
         "HieuLe\\Active\\ActiveServiceProvider"
       ],
